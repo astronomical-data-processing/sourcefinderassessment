@@ -1,0 +1,32 @@
+03/01/2024 08:05:07 PM.506 rascil-logger INFO This is a single channel image.
+03/01/2024 08:05:07 PM.508 rascil-logger INFO Frequencies of image:[81600000.] 
+03/01/2024 08:05:07 PM.509 rascil-logger INFO Image polarisation frame is: stokesI
+03/01/2024 08:05:18 PM.454 rascil-logger INFO the num of filtered in./data/CIP_t1_SDP-39_sim2_noise1e-5_fov4.5_nmoment3_cip.taylor.0.restored.fits:4349 
+03/01/2024 08:05:18 PM.670 rascil-logger INFO  nchan = 1, npol = 1
+03/01/2024 08:05:22 PM.730 rascil-logger INFO the number of pybdsf comps:3841
+03/01/2024 08:05:22 PM.732 rascil-logger INFO  nchan = 1, npol = 1
+03/01/2024 08:05:25 PM.409 rascil-logger INFO the number of aegean comps:2474
+03/01/2024 08:05:25 PM.411 rascil-logger INFO  nchan = 1, npol = 1
+03/01/2024 08:05:28 PM.153 rascil-logger INFO the number of sofia comps:1493
+03/01/2024 08:05:28 PM.154 rascil-logger INFO  nchan = 1, npol = 1
+03/01/2024 08:05:31 PM.752 rascil-logger INFO the number of caesar comps:3707
+03/01/2024 08:05:31 PM.791 rascil-logger INFO 4349 sources in and 2474 sources out
+03/01/2024 08:05:36 PM.42 rascil-logger INFO 4349 sources in and 3707 sources out
+03/01/2024 08:05:40 PM.481 rascil-logger INFO 4349 sources in and 3841 sources out
+03/01/2024 08:05:44 PM.651 rascil-logger INFO 4349 sources in and 1493 sources out
+03/01/2024 08:05:48 PM.797 rascil-logger INFO 4349 sources in and 2474 sources out
+03/01/2024 08:05:50 PM.892 rascil-logger INFO 4349 sources in and 3707 sources out
+03/01/2024 08:05:53 PM.369 rascil-logger INFO 4349 sources in and 3841 sources out
+03/01/2024 08:05:56 PM.244 rascil-logger INFO 4349 sources in and 1493 sources out
+03/01/2024 08:05:58 PM.711 rascil-logger INFO 4349 sources in and 2474 sources out
+03/01/2024 08:06:00 PM.462 rascil-logger INFO 4349 sources in and 3707 sources out
+03/01/2024 08:06:02 PM.262 rascil-logger INFO 4349 sources in and 3841 sources out
+03/01/2024 08:06:04 PM.46 rascil-logger INFO 4349 sources in and 1493 sources out
+03/01/2024 08:06:06 PM.402 rascil-logger INFO 4349 sources in and 2474 sources out
+03/01/2024 08:06:08 PM.116 rascil-logger INFO 4349 sources in and 2474 sources out
+03/01/2024 08:06:10 PM.66 rascil-logger INFO 4349 sources in and 3707 sources out
+03/01/2024 08:06:11 PM.804 rascil-logger INFO 4349 sources in and 3707 sources out
+03/01/2024 08:06:13 PM.762 rascil-logger INFO 4349 sources in and 3841 sources out
+03/01/2024 08:06:15 PM.531 rascil-logger INFO 4349 sources in and 3841 sources out
+03/01/2024 08:06:17 PM.486 rascil-logger INFO 4349 sources in and 1493 sources out
+03/01/2024 08:06:18 PM.642 rascil-logger INFO 4349 sources in and 1493 sources out
